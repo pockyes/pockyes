@@ -1,5 +1,6 @@
 # Introduce ME
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=HanAreum&fontSize=90)
+![pockyes's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockyes)](https://github.com/pockyes/github-readme-stats)
 <!--
