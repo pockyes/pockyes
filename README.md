@@ -1,5 +1,5 @@
 # Introduce ME
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HanAreum&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=HanAreum&fontSize=90)
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockyes)](https://github.com/pockyes/github-readme-stats)
 <!--
