@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=HanAreum&fontSize=90)
 ![pockyes's github stats](https://github-readme-stats.vercel.app/api?username=pockyes&show_icons=true)
 Tech Stack
-<img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=JavaScript
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 &logoColor=white"/></a>&nbsp
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockyes)](https://github.com/pockyes/github-readme-stats)
